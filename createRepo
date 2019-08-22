@@ -1,1 +1,16 @@
-Go 
+
+Go to GITHUB and click 'New' to make repo
+
+Copy the SSH link
+
+Go to where you want to save the Project on your PC through terminal
+
+Git clone (link to repository)
+
+Then add README.md use
+
+echo "# (Repo name)" >> README.md
+git add README.md
+git commit -m"added readme"
+git remote add origin (link of repo)
+push -u origin master
