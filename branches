@@ -1,0 +1,9 @@
+
+Once repo is made, write "git branch" to view all branches
+ - only master should be available
+
+Git branch (name of new branch)
+
+Git checkout (branch name)
+ - now working on new branch
+
