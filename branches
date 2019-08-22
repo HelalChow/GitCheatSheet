@@ -1,9 +1,29 @@
 
+
+
 Once repo is made, write "git branch" to view all branches
  - only master should be available
 
+
+****Creating Branch*****
 Git branch (name of new branch)
 
 Git checkout (branch name)
  - now working on new branch
 
+OR
+
+Git checkout -b (name of branch)
+
+
+****Merge Branches****
+First go to the base branch (Master)
+
+Git merge (name of new branch)
+
+Type commit message
+
+
+
+****Delete Branch****
+Git branch -d (name of branch)
